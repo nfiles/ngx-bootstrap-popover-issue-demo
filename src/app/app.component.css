@@ -1,0 +1,11 @@
+.grid {
+    border: 1px solid black;
+}
+
+.panel-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100% - 41px);
+    font-size: 2em;
+}
